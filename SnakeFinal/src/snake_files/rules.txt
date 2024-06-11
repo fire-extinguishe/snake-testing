@@ -1,0 +1,10 @@
+<p style="text-align: center;"><b>*** RULES ***</b>
+
+'Snake' is a simple game in which you control a snake which strives to
+eat as many cherries as possible.
+Cherries will appear randomly as soon as the previous ones are eaten.
+Witch every eaten cherry, the snake gets longer and longer. 
+One cherry equals one additional segment of the snake.
+The game ends as soon as the snake touches the boarders of the screen or eats itself.
+To turn left or right use "A"/"D" letters on your keyboard.
+To go up or down use letters "W" and "S". </p>

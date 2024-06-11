@@ -1,0 +1,10 @@
+<p style=„text-align: center;”><b>*** ZASADY ***</b>
+
+„Snake” to prosta gra, w której kontrolujesz węża, który stara się
+zjeść jak najwięcej wiśni.
+Wiśnie będą pojawiać się losowo, gdy tylko poprzednie zostaną zjedzone.
+Z każdą zjedzoną wisienką wąż staje się coraz dłuższy. 
+Jedna wisienka odpowiada jednemu dodatkowemu segmentowi węża.
+Gra kończy się, gdy wąż dotknie krawędzi ekranu lub zje sam siebie.
+Aby skręcić w lewo lub w prawo, użyj liter „A”/„D” na klawiaturze.
+Aby przejść w górę lub w dół, użyj liter „W” i „S”. </p>
